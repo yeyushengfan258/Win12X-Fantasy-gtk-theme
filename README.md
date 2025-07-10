@@ -2,6 +2,12 @@
 
 Win12X-Fantasy is a windows like theme for GNOME/GTK based desktop environments.
 
+### Donate
+
+If you like my project, you can buy me a coffee:
+
+<span class="paypal"><a href="https://www.paypal.me/yeyushengfan258" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+
 ## Requirements
 
 - GTK `>=3.20`
@@ -97,6 +103,12 @@ and so on ...
 ```sh
 sudo flatpak override --filesystem=xdg-config/gtk-3.0 && sudo flatpak override --filesystem=xdg-config/gtk-4.0
 ```
+
+## Preview:
+![preview-01](preview-01.jpg?raw=true)
+![preview-02](preview-02.jpg?raw=true)
+![preview-03](preview-03.jpg?raw=true)
+![preview-04](preview-04.jpg?raw=true)
 
 If you use flatpak apps, you can run this to fix theme issue.
 
