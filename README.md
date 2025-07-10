@@ -107,9 +107,8 @@ sudo flatpak override --filesystem=xdg-config/gtk-3.0 && sudo flatpak override -
 If you use flatpak apps, you can run this to fix theme issue.
 
 ## Preview:
-![preview-01](preview-01.jpg?raw=true)
-![preview-02](preview-02.jpg?raw=true)
-![preview-03](preview-03.jpg?raw=true)
-![preview-04](preview-04.jpg?raw=true)
+![preview-01](preview-01.png?raw=true)
+![preview-02](preview-02.png?raw=true)
+![preview-03](preview-03.png?raw=true)
 
 
